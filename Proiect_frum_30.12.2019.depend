@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1579094482 source:c:\users\haru\desktop\proiect_frum_30.12.2019\main.cpp
+	<iostream>
+	<winbgim.h>
+	<graphics.h>
+	"esential.h"
+	"verificare.h"
+	"grafica.h"
+
+1578949487 c:\users\haru\desktop\proiect_frum_30.12.2019\esential.h
+
+1578999285 source:c:\users\haru\desktop\proiect_frum_30.12.2019\esential.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	<cstdlib>
+
+1578913744 c:\users\haru\desktop\proiect_frum_30.12.2019\verificare.h
+
+1579035976 source:c:\users\haru\desktop\proiect_frum_30.12.2019\verificare.cpp
+	<iostream>
+	<cstring>
+	"esential.h"
+
+1579094232 source:c:\users\haru\desktop\proiect_frum_30.12.2019\grafica.cpp
+	<iostream>
+	<cstring>
+	<graphics.h>
+	<winbgim.h>
+	"esential.h"
+	"verificare.h"
+
+1578999897 c:\users\haru\desktop\proiect_frum_30.12.2019\grafica.h
+
